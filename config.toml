@@ -10,3 +10,6 @@ theme = "eon"
 [Params]
   gravatar = true
   disqus_url = "https://ryanburnette.disqus.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
