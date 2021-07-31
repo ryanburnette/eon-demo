@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "eon"
+
+[Author]
+  name = "Ryan Burnette"
+  email = "ryan.burnette@gmail.com"
+
+[Params]
+  gravatar = true
+  disqus_url = "https://ryanburnette.disqus.com"
