@@ -1,0 +1,14 @@
+languageCode: en-us
+title: My New Hugo Site
+theme: eon
+baseURL: 'https://foo.bar.com/baz'
+Author:
+  name: Ryan Burnette
+  email: ryan.burnette@gmail.com
+Params:
+  gravatar: true
+  disqus_url: 'https://ryanburnette.disqus.com'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
